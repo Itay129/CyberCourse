@@ -97,7 +97,7 @@ def main():
     url = "https://www.virustotal.com/api/v3/files"
     headers = {
         "accept": "application/json",
-        "x-apikey": "ea44e6955906abd1f98e5b93b94d41f91326891814dee8efcc808c2c31fc99a6"
+        "x-apikey": "API KEY"
     }
 
     answer = file_or_folder()
